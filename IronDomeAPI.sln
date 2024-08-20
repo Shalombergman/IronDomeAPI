@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IronDomeAPI", "IronDomeAPI.csproj", "{3A40B70B-2900-448D-AC72-719AA4F72F8C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IronDomeAPI", "IronDomeAPI.csproj", "{3A40B70B-2900-448D-AC72-719AA4F72F8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IronDomMvc", "..\IronDomMvc\IronDomMvc.csproj", "{DB5E90FE-05EF-4637-A43E-C8A756111173}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{3A40B70B-2900-448D-AC72-719AA4F72F8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A40B70B-2900-448D-AC72-719AA4F72F8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A40B70B-2900-448D-AC72-719AA4F72F8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB5E90FE-05EF-4637-A43E-C8A756111173}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB5E90FE-05EF-4637-A43E-C8A756111173}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB5E90FE-05EF-4637-A43E-C8A756111173}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB5E90FE-05EF-4637-A43E-C8A756111173}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
